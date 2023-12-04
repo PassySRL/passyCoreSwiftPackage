@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "PassyCore",
-                      url: "https://github.com/PassySRL/passyCoreSwiftPackage/releases/download/v0.0.380/PassyCore.zip",
-                      checksum: "79b008d2fc0359566397cb489e4d9b8bda043eda368595d3cfacbca75253c566")
+                      url: "https://github.com/PassySRL/passyCoreSwiftPackage/releases/download/0.0.380/PassyCore.zip",
+                      checksum: "b8f371a11f0f0e1578b906cc4b6ef6796348f200bcde308bde7a5cd9996d9df8")
     ]
 )
